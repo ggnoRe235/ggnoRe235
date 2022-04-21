@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yepeng Pan
-- 👀 I’m interested in Cryptography, Privacy enhancing technology, Access control, Blockchain
 - 📫 More details on my [homepage](https://vigorous-volhard-e02901.netlify.app/)
 
 <!---
